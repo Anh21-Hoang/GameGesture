@@ -1,0 +1,7 @@
+{
+  "name": "Siêu Nhân Nhảy Vực",
+  "description": "Một trò chơi điều khiển bằng cử chỉ tay dành cho trẻ em từ 6-9 tuổi. Người chơi nắm tay để nhảy qua những vực sâu thăm thẳm.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
